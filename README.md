@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Metalfungas
-- 👀 I’m interested in Animating and hacking
-- 🌱 I’m currently learning how to animate
-- 💞️ I’m looking to collaborate on Hacking and phishing
-- 📫 How to reach me email
+- Sulfer optimizations developer!
+- coder for 2 years
 
 <!---
 Metalfungas/Metalfungas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
